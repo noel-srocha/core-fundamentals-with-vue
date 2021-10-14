@@ -1,24 +1,3 @@
-# html-fundamentals
+# HTML & CSS Fundamentals with Vue
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is my first attempt on building a Vue application from the ground up. It's promoted by __Jonas Scherdtmann__ who teaches in his [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/), to further my knowledge in front-end development while reviewing core concepts about HTML and CSS.
